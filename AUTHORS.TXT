@@ -1,4 +1,0 @@
-;; 在这里以以下格式写下你的名字，以及联系邮箱
-
-版权所有 (C) 2017 urain39 <hexiedeshijie@gmail.com>
-版权所有 (C) 2017 95e2 <heos2018@yeah.net>
