@@ -1,0 +1,12 @@
+--------- beginning of main
+12-25 08:01:11.984 28398 28608 D ONS_Out : ONScripter Ver.20130511[CN Safity Crypt Version,Modify by natdon,Taigacon,gjy,Swec](2.96)
+12-25 08:01:12.075 28398 28608 D ONS_Out : Display: 640 x 480 (32 bpp)
+--------- beginning of system
+12-25 08:01:12.110 28398 28608 D ONS_Out : Audio: 44100 Hz 16 bit stereo
+12-25 08:01:12.130 28398 28608 D ONS_Out : cannot open system.lua
+12-25 08:01:12.139 28398 28608 D ONS_Out :  *** can't find file [uoncur.bmp] ***
+12-25 08:01:12.141 28398 28608 D ONS_Out :  *** can't find file [uoffcur.bmp] ***
+12-25 08:01:12.142 28398 28608 D ONS_Out :  *** can't find file [doncur.bmp] ***
+12-25 08:01:12.143 28398 28608 D ONS_Out :  *** can't find file [doffcur.bmp] ***
+12-25 08:01:12.181 28398 28608 D ONS_Out :  *** can't find file [cursor0.bmp] ***
+12-25 08:01:12.183 28398 28608 D ONS_Out :  *** can't find file [cursor1.bmp] ***
